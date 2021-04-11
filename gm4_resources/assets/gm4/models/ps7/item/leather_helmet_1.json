@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gm4:ps7/item/leather_helmet_1",
+        "layer1": "gm4:ps7/item/leather_helmet_1_overlay"
+    }
+}
